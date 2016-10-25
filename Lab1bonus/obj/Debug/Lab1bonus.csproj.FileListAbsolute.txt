@@ -1,0 +1,6 @@
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\bin\Debug\Lab1bonus.exe.config
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\obj\Debug\Lab1bonus.csprojResolveAssemblyReference.cache
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\bin\Debug\Lab1bonus.exe
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\bin\Debug\Lab1bonus.pdb
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\obj\Debug\Lab1bonus.exe
+C:\Users\Jay Patel\Desktop\Projects\Lab1bonus\Lab1bonus\obj\Debug\Lab1bonus.pdb
